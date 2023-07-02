@@ -1,0 +1,27 @@
+# Claim ID: 000003
+
+The following claim is popular in some spyware misinformation "reports":
+
+> **users can "fake" a malware infection by "planting" fake forensic artefacts**
+
+The claim is considered: :x: **FALSE** :x:
+
+## Why is it false?
+Indicators of compromise are forensic artefacts which point to an infection[^wiki]. This can be as simple as e.g. a unique URL which had to be visited in order for the device to get infected. These URLs can be spread using text messages or some other social engineering methods. For example in one case of the Pegasus spyware infection the victim receved a text message which pretended to be a link to a boarding pass for a flight that the victim was about to board. This text message containing private information combined with a URL attributed to the Pegasus infection is a strong indication of a sophisticated attack[^citizenlab].
+
+Despite that, the claim is that a user can "fake" such a malare infection. For that to happen, however, the victim would have to know indicators of compromise at the same time at which they were active (i.e. during an active malware campaign) and replicate the modus operandi of the spyware operators (e.g. fake a borading pass text message with a correct sender). Faking an infection chain is not as simple as sending a text message with a link. Forensic investigators will usually look at the case hollistically and base their finding on multiple different indicators of compromise, the timeline of the infection and the sequence of actions that happened on the device[^timeline].
+
+Another issue with this claim is that it assumes that the victim is willing to go to extreme lengths to fake an infection. This requires a high burden of proof - showing that the victim had the means, the opportunity and the motive to do so. None of the posts which make such a claim follow it up by providing these additional details.
+
+## Statement sources
+The websites below repeat the claim. This is not a full list of websites.
+* Jonathan Scott, *UNCOVERING THE CITIZEN LAB -AN ANALYTICAL AND TECHNICAL REVIEW DISPROVING CATALANGATE* - [link](https://www.researchgate.net/publication/361738419_UNCOVERING_THE_CITIZEN_LAB_-AN_ANALYTICAL_AND_TECHNICAL_REVIEW_DISPROVING_CATALANGATE)
+
+## Campaigns
+The misinfomartion campaigns below have used this claim.
+* Pegasus misinformation campaign.
+
+## Footnotes
+[^wiki]: [Indicators of compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
+[^citizenlab]: [CatalanGate: Extensive Mercenary Spyware Operation against Catalans Using Pegasus and Candiru](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/)
+[^timeline]: [Timeline Analysis](https://www.sleuthkit.org/autopsy/timeline.php)
