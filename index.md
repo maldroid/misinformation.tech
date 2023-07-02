@@ -9,3 +9,9 @@ Claims below are listed in a random order. Click on each to learn more.
 
 1.  [Only a complete examination of the physical phone can lead to the detection of malware](claims/00001).
 2.  [Unexpected pop-ups can indicate a spyware infection](claims/00002).
+3.  [Users can "fake" a malware infection by "planting" fake forensic artefacts](claims/00003).
+4.  [A name of a process similar to a legitimate process means it's not malware](claims/00004).
+5.  [Automated detection tools are useless, because they can be fooled](claims/000005).
+6.  [It's impossible to attribute an IP address to a country](claims/000006).
+7.  [It's impossible to analyse a domain that has expired](claims/000007).
+8.  [Pegasus spyware contains comments in the Chinese language](claims/000008).
