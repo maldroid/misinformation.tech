@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Malware misinfomration
 description: Documenting misinformation in the infosecurity space, focusing particularly on malware analysis and forensics.<br/><br/>Created by <a href="https://twitter.com/maldr0id">@maldr0id</a>
+plugins:
+  - jemoji
