@@ -11,7 +11,7 @@ Claims below are listed in a random order. Click on each to learn more.
 2.  [Unexpected pop-ups can indicate a spyware infection](claims/00002).
 3.  [Users can "fake" a malware infection by "planting" fake forensic artefacts](claims/00003).
 4.  [A name of a process similar to a legitimate process means it's not malware](claims/00004).
-5.  [Automated detection tools are useless, because they can be fooled](claims/000005).
-6.  [It's impossible to attribute an IP address to a country](claims/000006).
-7.  [It's impossible to analyse a domain that has expired](claims/000007).
-8.  [Pegasus spyware contains comments in the Chinese language](claims/000008).
+5.  [Automated detection tools are useless, because they can be fooled](claims/00005).
+6.  [It's impossible to attribute an IP address to a country](claims/00006).
+7.  [It's impossible to analyse a domain that has expired](claims/00007).
+8.  [Pegasus spyware contains comments in the Chinese language](claims/00008).
