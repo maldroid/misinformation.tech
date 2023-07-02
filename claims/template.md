@@ -1,9 +1,14 @@
+<style>
+.emoji-big-size img {height: 12px; width: 12px;}
+</style>
+
 # Claim ID: [id]
 
 The following claim is [...]:
 
 > **CLAIM**
 
+{: .emoji-big-size}
 The claim is considered: :x: **FALSE** :x:
 
 ## Why is it false?
