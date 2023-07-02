@@ -8,3 +8,4 @@ The website is not meant to be comprehensive coverage of all misinformation, but
 Claims below are listed in a random order. Click on each to learn more.
 
 1.  [Only a complete examination of the physical phone can lead to the detection of malware](claims/00001).
+2.  [Unexpected pop-ups can indicate a spyware infection](claims/00002).
