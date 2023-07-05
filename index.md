@@ -15,3 +15,4 @@ Claims below are listed in a random order. Click on each to learn more.
 6.  [It's impossible to attribute an IP address to a country](claims/00006).
 7.  [It's impossible to analyse a domain that has expired](claims/00007).
 8.  [Pegasus spyware contains comments in the Chinese language](claims/00008).
+9.  [Expired domains are not a useful indicator of compromise](claims/00009).
